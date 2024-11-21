@@ -1,10 +1,9 @@
+#include "claseMaterial.h"
 #include <iostream>
-#include <string> 
 
-using namespace std; 
+int main() {
+    Papel papel(5.0); // Ejemplo de creacin de objeto Papel con 5 kg
+    papel.mostrarInfo();
 
-int main(){
-	
-	
-	return 0; 
-}
+    return 0;
+}}
