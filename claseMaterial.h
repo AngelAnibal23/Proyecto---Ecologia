@@ -7,7 +7,7 @@
 using namespace std; 
 
 class Material{
-	protected: 
+	private: 
 		string nombre; 
 		float kg; 
 	public: 

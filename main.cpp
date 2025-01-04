@@ -6,4 +6,4 @@ int main() {
     papel.mostrarInfo();
 
     return 0;
-}}
+}
